@@ -34,7 +34,7 @@ Instale as dependências
 Inicie o servidor
 
 ```bash
-  yarn dev
+  yarn dev:server
 ```
 ## Rodar testes
 
